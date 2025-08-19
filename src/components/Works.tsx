@@ -9,7 +9,7 @@ const Works = () => {
       tags: ["Unity", "C#"],
       imageUrl: "#",
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/ik-taku/Asphalt-Warriors.git",
     },
     {
       title: "バスケ部のHP",

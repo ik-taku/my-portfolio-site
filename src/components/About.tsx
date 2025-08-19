@@ -39,7 +39,7 @@ const About = () => {
             
             <div className="mt-8 flex items-center justify-center md:justify-start space-x-6">
               <a 
-                href="https://github.com/iek-taku"
+                href="https://github.com/ik-taku/my-portfolio-site.git"
                 target="_blank" 
                 rel="noopener noreferrer"
                 aria-label="GitHub"
