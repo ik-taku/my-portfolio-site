@@ -19,6 +19,14 @@ const Works = () => {
       liveUrl: "#",
       githubUrl: "#",
     },
+    {
+      title: "シフ長",
+      description: "AIエージェント",
+      tags: ["React", "firebase"],
+      imageUrl: "#",
+      liveUrl: "https://shift-management-prod-444098581966.asia-northeast1.run.app/",
+      githubUrl: "https://github.com/akitozizi818/shift-management-ai.git",
+    },
   ];
 
   return (
