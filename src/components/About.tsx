@@ -1,5 +1,6 @@
 import { FaGithub, FaInstagram } from "react-icons/fa";
 import { SiZenn } from "react-icons/si";
+import { FaXTwitter } from "react-icons/fa6";
 
 const About = () => {
   return (
@@ -55,6 +56,15 @@ const About = () => {
                 className="text-gray-500 hover:text-gray-900 transition-all duration-300 hover:-translate-y-1"
               >
                 <FaInstagram size={28} />
+              </a>
+              <a 
+                href="https://x.com/ike_taku13"
+                target="_blank" 
+                rel="noopener noreferrer"
+                aria-label="X"
+                className="text-gray-500 hover:text-gray-900 transition-all duration-300 hover:-translate-y-1"
+              >
+                <FaXTwitter size={28} />
               </a>
               <a 
                 href="https://zenn.dev/ike_taku"

@@ -27,6 +27,14 @@ const Works = () => {
       liveUrl: "https://shift-management-prod-444098581966.asia-northeast1.run.app/",
       githubUrl: "https://github.com/akitozizi818/shift-management-ai.git",
     },
+    {
+      title: "Runrun",
+      description: "ゲーム開発",
+      tags: ["Unity", "C#"],
+      imageUrl: "/Runrun_img.png",
+      liveUrl: "#",
+      githubUrl: "https://github.com/ik-taku/Runrun.git",
+    },
   ];
 
   return (
